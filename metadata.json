@@ -1,0 +1,6 @@
+{
+  "name": "StudyFocus",
+  "description": "Student productivity and digital wellbeing app with app time limits, study notes, scientific calculator, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
